@@ -11,6 +11,7 @@ This console application takes a string input from the user and reverses each wo
 
 <h2>Usage</h2>
 <h3>To use the application, follow these steps:</h3>
+<ul>
 <li>Set the ConsoleApp1 project as the startup project.</li>
 <li>Press F5 or select Debug -> Start Debugging from the menu to start the application.</li>
 <li>Enter a string to be reversed.</li>
